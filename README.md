@@ -1,12 +1,14 @@
-My name is Willie Zou
+# About Me
 
-I'm 15 years old.
+- My name is Willie Zou
 
-I was born in August
+- I'm 15 years old.
 
-My favorite color is Crimson red
+- I was born in August
 
-My favorite 3 artist are Twice, and ...
+- My favorite color is Crimson red
 
-On the weekends I like to Play games
+- My favorite 3 artist are Twice, and ...
+
+- On the weekends I like to Play games
 
