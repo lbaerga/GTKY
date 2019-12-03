@@ -1,12 +1,14 @@
-My name is ...
+# About Me
 
-I'm ... years old.
+My name is **_Dennis J. Grigoryev_**.
 
-I was born in ....
+I'm **15** years old.
 
-My favorite color is ...
+I was born in **2004**
 
-My favorite 3 artist are ...
+My favorite color is **#7DF0FF** (AKA A very Light blue.)
 
-On the weekends I like to ...
+My favorite artists change depending on my mood.
+
+On the weekends I like to watch YouTube, play videogames and bake.
 
