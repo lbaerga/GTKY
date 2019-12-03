@@ -1,12 +1,12 @@
-My name is ...
+My name is Lizette Aguirre
 
-I'm ... years old.
+I'm 14 years old.
 
-I was born in ....
+I was born in New York, Brooklyn.
 
-My favorite color is ...
+My favorite color is Pink
 
-My favorite 3 artist are ...
+My favorite 3 artist are Van Gogh, Bazzi
 
-On the weekends I like to ...
+On the weekends I like to sleep in and do chores
 
